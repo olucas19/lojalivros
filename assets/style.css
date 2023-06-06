@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --cor-de-fundo: #ebecee
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
